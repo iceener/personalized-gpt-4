@@ -14,13 +14,14 @@ Szkolenie AI Devs #2 zaczynamy 23 października. Dołącz do nas na https://aide
 ## Instalacja
 
 1. Pobierz repozytorium na swój komputer
-2. Dodaj swój klucz OpenAI API do pliku .env
-3. Dodaj swój klucz Todoist API do pliku .env
-4. Dodaj dowolny klucz API chroniący aplikację (może to być dowolny ciąg znaków) do pliku .env
-5. Zainstaluj zależności poleceniem `bun install`
-6. Uruchom kod poleceniem `bun start`
-7. Serwer uruchomi się na porcie 3000
-8. Wykonaj zapytanie CURL według poniższego przykładu, aby przetestować działanie aplikacji
+2. Zmień nazwę pliku .env.example na .env
+3. Dodaj swój klucz OpenAI API do pliku .env
+4. Dodaj swój klucz Todoist API do pliku .env
+5. Dodaj dowolny klucz API chroniący aplikację (może to być dowolny ciąg znaków) do pliku .env
+6. Zainstaluj zależności poleceniem `bun install`
+7. Uruchom kod poleceniem `bun start`
+8. Serwer uruchomi się na porcie 3000
+9. Wykonaj zapytanie CURL według poniższego przykładu, aby przetestować działanie aplikacji
 
 ## Ograniczenia
 
