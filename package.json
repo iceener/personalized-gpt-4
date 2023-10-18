@@ -1,0 +1,20 @@
+{
+  "name": "tools",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun --hot src/server/server.ts"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.19",
+    "express": "^4.18.2",
+    "hnswlib-node": "^2.0.0",
+    "langchain": "^0.0.154"
+  }
+}
